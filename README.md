@@ -7,7 +7,8 @@ Appassionato di **cani, calcio e motociclismo**, ho recentemente intrapreso coll
 
 ---
 
-## Supportami
+## ☕ Supportami
 Se vuoi supportare il mio lavoro, puoi farlo tramite PayPal:
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.me/tuonome)
+[![PayPal](https://img.shields.io/badge/☕-Sostienimi%20con%20PayPal-yellow?logo=paypal&style=for-the-badge)](https://www.paypal.me/momo1098r)
+
