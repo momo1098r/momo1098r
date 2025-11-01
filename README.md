@@ -24,8 +24,8 @@ Always exploring new ways to make systems **faster, smarter, and more efficient*
 
 ---
 
-## ☕ Supportami
-Se vuoi supportare il mio lavoro, puoi farlo tramite PayPal:
+## ☕ Support My Work  
+If you’d like to support my projects, you can do so via PayPal 💙<br>
 
-[![PayPal](https://img.shields.io/badge/☕-Sostienimi%20con%20PayPal-yellow?logo=paypal&style=for-the-badge)](https://www.paypal.me/momo1098r)
+[![PayPal](https://img.shields.io/badge/☕-Support%20with%20PayPal-yellow?logo=paypal&style=for-the-badge)](https://www.paypal.me/momo1098r)
 
