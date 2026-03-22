@@ -2,9 +2,7 @@
 
 **💻 IT Technician & 🎨 Graphic Designer** from Turin, Italy 🇮🇹 (born in Lecco, 1989).
 <h2>🚀 About Me</h2>
-I specialize in **PC repair and technical support**, **custom PC builds**, and **hardware/software optimization**.  
-My experience in **graphic design** ranges from creating posters, flyers, and advertising materials to building **custom WordPress websites** designed for easy management and practical use.  
-Always exploring new ways to make systems **faster, smarter, and more efficient**.
+PC repair & technical support specialist with hands-on experience in custom builds and hardware/software optimization. I also work in graphic design — posters, flyers, ad materials — and build custom WordPress websites focused on usability and easy client management. Always chasing faster, smarter, cleaner solutions.
 
 <h2> 🧠 Skills</h2>
 
